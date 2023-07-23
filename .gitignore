@@ -1,0 +1,73 @@
+# Binaries
+/bin/
+/obj/
+
+# Build results
+[Oo]ut/
+
+# NuGet Packages
+*.nupkg
+**/packages/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.vs/
+
+# ReSharper files
+_ReSharper.*/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# User-specific files
+*.userprefs
+*.usertasks
+
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.dll
+*.exe
+*.pdb
+*.json
+*.dll
+*.exe
+*.pdb
+*.lock
+*.exe
+*.dll
+*.pdb
+!*.dll
+!*.exe
+!*.pdb
+/appsettings.json
+/appsettings.Development.json
+/*.sw*
+
+# Log files
+*.log
+logs/
+
+# Test Results
+[Tt]est[Rr]esult*/
